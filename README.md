@@ -1,7 +1,3 @@
-# Survival-Horror---Codename-Bunny
+# MVP : Minimum viable produck
 
-A 2D platforming survival horror game
-
-Designers: Perry KitKat Bar
-
-Developers: Ismail Siddiqui
+Barebonez game
