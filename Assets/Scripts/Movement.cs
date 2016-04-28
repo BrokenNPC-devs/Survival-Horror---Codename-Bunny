@@ -32,6 +32,11 @@ public class Movement : MonoBehaviour {
             Flip();
         if (move < 0 && !facingLeft)
             Flip();
+
+        if (HideBehind.playerIsHiding == true)
+        {
+            move = 0;
+        }
 	}
 
     //use for RigidBody physics
